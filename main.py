@@ -1,3 +1,4 @@
+print("Welcome to Task Manager")
 tasks = []
 
 while True:
